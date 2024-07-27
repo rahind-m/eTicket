@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rahindm/VS_CODE/eTicket/eTicket/eTicket.csproj",
+      "projectUniqueName": "/Users/rahindm/Desktop/eTicket 2/eTicket/eTicket.csproj",
       "projectName": "eTicket",
-      "projectPath": "/Users/rahindm/VS_CODE/eTicket/eTicket/eTicket.csproj",
+      "projectPath": "/Users/rahindm/Desktop/eTicket 2/eTicket/eTicket.csproj",
       "packagesPath": "/Users/rahindm/.nuget/packages/",
-      "outputPath": "/Users/rahindm/VS_CODE/eTicket/eTicket/obj/",
+      "outputPath": "/Users/rahindm/Desktop/eTicket 2/eTicket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rahindm/.nuget/NuGet/NuGet.Config"
